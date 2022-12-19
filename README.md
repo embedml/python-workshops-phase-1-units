@@ -13,6 +13,6 @@ This is where each Unit can be accessed:
 
 [Unit 1E: Modularity](https://colab.research.google.com/drive/1z3L1Xr4rXRsTMOTmht3mPZIYYbkhAdQc?usp=share_link)
 
-[Unit 1G: Object Oriented Programming](https://colab.research.google.com/drive/1ba9m9dXPFPBZ_qtFsFjdTBbOCi3lnaik?usp=share_link)
+[Unit 1F: Object Oriented Programming](https://colab.research.google.com/drive/1ba9m9dXPFPBZ_qtFsFjdTBbOCi3lnaik?usp=share_link)
 
-[Unit 1H: Bug Smashing](https://colab.research.google.com/drive/1RjraH1xltTk7ZkxLMWYQcb9SOTY2aQxT?usp=share_link)
+[Unit 1G: Bug Smashing](https://colab.research.google.com/drive/1RjraH1xltTk7ZkxLMWYQcb9SOTY2aQxT?usp=share_link)
